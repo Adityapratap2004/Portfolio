@@ -102,7 +102,7 @@ export const project = [
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1702714135/portfolio/apsmart_yysttw.png",
         type: "Website",
         name: "ApsMart",
-        desc: "ApsMart is a feature-rich e-commerce website for electronic items. This project involves creating a robust online platform for purchasing electronics gadgets",
+        desc: "ApsMart is a feature-rich e-commerce website for purchasing electronic gadgets. This project involves creating a robust online platform for buying electronics.",
         github: "https://github.com/Adityapratap2004/Aps-Mart",
         link: "",
         tech: [
@@ -133,7 +133,7 @@ export const project = [
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1713462385/portfolio/prompt_share_ybjcji.png",
         type: "Website",
         name: "Prompt Share",
-        desc: "AI Prompt is an open-source AI prompting tool for modern world to discover, create and share creative prompts for various purposes. Developed using Next Js",
+        desc: "AI Prompt is an open-source tool designed for discovering, creating, and sharing creative prompts for various purposes in the modern world. It is developed using Next.js.",
         github: "https://github.com/Adityapratap2004/Prompt-Share",
         link: "https://aipromptshare.vercel.app/",
         tech: [
@@ -150,7 +150,7 @@ export const project = [
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1703175641/portfolio/weather_app_dem8i1.png",
         type: "Website",
         name: "Weather App",
-        desc: "This is the wether web-application build using React js and utilising the OpenWeather API",
+        desc: "This is a weather web application built using React.js and utilizing the OpenWeather API.",
         github: "https://github.com/Adityapratap2004/Weather-App",
         link: "https://weather-app-by-aps.vercel.app/",
         tech: [
@@ -166,7 +166,7 @@ export const project = [
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1713464547/todo_kywiaa.png",
         type: "Website",
         name: "ToDo",
-        desc: "This is a simple todo application built using react js and styled using tailwind css",
+        desc: "This is a simple todo application built using react js and styled using tailwind css.",
         github: "https://github.com/Adityapratap2004/ToDo",
         link: "https://to-do-beta-three.vercel.app/",
         tech: [
