@@ -85,6 +85,34 @@ export const skills = [
 
 export const project = [
     {
+        imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1724754697/get_hited_yaoi8h.png",
+        type: "Website",
+        name: "Get Hired",
+        desc: " GetHired is a dynamic job portal connecting job seekers with recruiters, enabling seamless job applications and postings by recruiters.",
+        github: "https://github.com/Adityapratap2004/Get-Hired",
+        link: "https://gethirred.vercel.app/",
+        tech: [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+            "/assets/icons/clerk.avif",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
+        ]
+    },
+    {
+        imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1720527445/frontpage_qggrs8.png",
+        type: "Website",
+        name: "Chat App",
+        desc: " ChatApp is a real-time communication platform developed using the MERN stack and Socket.IO. ",
+        github: "https://github.com/Adityapratap2004/ChatApp",
+        link: "https://chatapp-2is9.onrender.com/",
+        tech: [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+            "/assets/icons/express.png",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"
+        ]
+    },
+    {
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1702711406/portfolio/bloguniversephoto_oms5sv.png",
         type: "Website",
         name: "Blog Website",
@@ -98,22 +126,22 @@ export const project = [
             "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
         ]
     },
-    {
-        imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1702714135/portfolio/apsmart_yysttw.png",
-        type: "Website",
-        name: "ApsMart",
-        desc: "ApsMart is a feature-rich e-commerce website for electronic items. This project involves creating a robust online platform for purchasing electronics gadgets",
-        github: "https://github.com/Adityapratap2004/Aps-Mart",
-        link: "",
-        tech: [
-            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
-            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
-            "/assets/icons/express.png",
-            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
+    // {
+    //     imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1702714135/portfolio/apsmart_yysttw.png",
+    //     type: "Website",
+    //     name: "ApsMart",
+    //     desc: "ApsMart is a feature-rich e-commerce website for electronic items. This project involves creating a robust online platform for purchasing electronics gadgets",
+    //     github: "https://github.com/Adityapratap2004/Aps-Mart",
+    //     link: "",
+    //     tech: [
+    //         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+    //         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+    //         "/assets/icons/express.png",
+    //         "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
 
-        ]
+    //     ]
 
-    },
+    // },
     {
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1709226314/chromeextension_dtxkij.png",
         type: "Chrome Extension",
