@@ -85,6 +85,20 @@ export const skills = [
 
 export const project = [
     {
+        imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1729679404/ex_b3gnwf.png",
+        type: "Website",
+        name: "Exclusive",
+        desc: "Exclusive is an e-commerce platform built with the MERN stack, offering seamless product search, filtering, secure payment processing, and an intuitive admin dashboard for efficient order management.",
+        github: "https://github.com/Adityapratap2004/Ecommerce-Exclusive",
+        link: "https://ecommerce-exclusive-n8ma.onrender.com/",
+        tech: [
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+            "/assets/icons/express.png",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
+         ]
+    },
+    {
         imgurl: "https://res.cloudinary.com/df0gakl8i/image/upload/v1724754697/get_hited_yaoi8h.png",
         type: "Website",
         name: "Get Hired",
