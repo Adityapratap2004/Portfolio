@@ -30,11 +30,12 @@ export default function Hero() {
                         Aditya Pratap Singh
                     </h1>
                     <h1 className="hidden md:block text-4xl  font-bold sm:text-7xl">
-                        Web Developer
+                        Software Engineer
                     </h1>
                     <p className="mt-6  text-gray-300  leading-6 text-center">
                         {/* Welcome to my portfolio! As an enthusiastic engineering student with a passion for web development, I&apos;ve curated a collection of my projects to showcase my skills in the field. Explore my portfolio to discover the projects I&apos;ve worked on. */}
-                        Hello and welcome! I&apos;m an engineering student deeply passionate about web development, with strong expertise in C++ and data structures and algorithms. Explore my curated projects that reflect my dedication to crafting innovative web solutions and optimizing performance through efficient algorithms. Let&apos;s embark on this journey together into the exciting world of technology!
+                        {/* Hello and welcome! I&apos;m an engineering student deeply passionate about web development, with strong expertise in C++ and data structures and algorithms. Explore my curated projects that reflect my dedication to crafting innovative web solutions and optimizing performance through efficient algorithms. Let&apos;s embark on this journey together into the exciting world of technology! */}
+                        As a passionate engineering student with a strong focus on web development, I’ve curated a selection of projects that showcase my skills in both software development and algorithmic problem-solving. With a solid foundation in C++, data structures, and web technologies like JavaScript and the MERN stack, I strive to create efficient, scalable, and innovative solutions. Explore my portfolio to discover the projects I’ve worked on and let’s connect to collaborate on exciting opportunities!
 
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6">
